@@ -5,7 +5,7 @@
   padding: 10px 10%;
   background-color: black;
   color: white;}
-.movieArea {
+.login {
   display:flex ;
   justify-content: space-around;
   align-items: center;
